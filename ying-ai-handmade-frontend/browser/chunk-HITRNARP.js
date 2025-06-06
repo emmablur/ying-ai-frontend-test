@@ -1,1 +1,0 @@
-import{m,r as p}from"./chunk-5QNURK3X.js";import{Hc as a,Ob as n,_ as t,pb as r}from"./chunk-2V23HKTH.js";var i=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-order"]],standalone:!0,features:[n],decls:1,vars:0,template:function(e,c){e&1&&r(0,"router-outlet")},dependencies:[p,m,a],encapsulation:2})};export{i as OrderComponent};
