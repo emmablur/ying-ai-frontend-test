@@ -11,7 +11,7 @@
     "build:ssr": "ng build --ssr",
     "build:ssr-test": "ng build --ssr --configuration test",
     "build:ssr-dev": "ng build --ssr --configuration development",
-    "serve:ssr": "node ./server/server.mjs",
+    "serve:ssr": "node ./dist/ying-ai-handmade-frontend/server/server.mjs",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "commit": "git cz",
