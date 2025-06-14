@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: /my-page
+Disallow: /api
+Disallow: /checkout
+Disallow: /cart
+Disallow: /auth/social
+Disallow: /auth/social
+Disallow: /reset-password
+
+Sitemap: https://yingaihandmade.com/sitemap.xml
+
+# Google adsbot ignores robots.txt unless specifically named!
+# Explicitly state Googlebot & Googlebot-Image to try Google Shopping
+User-agent: adsbot-google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+Disallow: /my-page
+Disallow: /api
+Disallow: /checkout
+Disallow: /cart
+Disallow: /auth/social
+Disallow: /auth/social
+Disallow: /reset-password
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: MJ12bot
+Crawl-Delay: 10
+
+User-agent: BLEXBot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
