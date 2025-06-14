@@ -3,13 +3,13 @@
     "/",
     "/auth/social",
     "/cart",
+    "/categories/all",
     "/checkout",
     "/checkout/complete",
     "/login",
     "/my-page",
     "/my-page/information",
     "/my-page/order",
-    "/product",
     "/register",
     "/reset-password"
   ]
