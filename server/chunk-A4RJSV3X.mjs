@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{B as p,v as m}from"./chunk-JUKJ67WF.mjs";import{Ob as n,Qc as a,X as t,pb as r}from"./chunk-5QYW5SUH.mjs";import"./chunk-5XUXGTUW.mjs";var i=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-order"]],standalone:!0,features:[n],decls:1,vars:0,template:function(e,c){e&1&&r(0,"router-outlet")},dependencies:[p,m,a],encapsulation:2})};export{i as OrderComponent};
